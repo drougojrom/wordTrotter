@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "degrees Celcius"; ObjectID = "153-oG-nHa"; */
+"153-oG-nHa.text" = "градусов цельсия";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "3U5-3r-h4s"; */
+"3U5-3r-h4s.text" = "100";
+
+/* Class = "UISegmentedControl"; GBj-1z-Md6.segmentTitles[0] = "Standard"; ObjectID = "GBj-1z-Md6"; */
+"GBj-1z-Md6.segmentTitles[0]" = "Стандарт";
+
+/* Class = "UISegmentedControl"; GBj-1z-Md6.segmentTitles[1] = "Hybrid"; ObjectID = "GBj-1z-Md6"; */
+"GBj-1z-Md6.segmentTitles[1]" = "Гибрид";
+
+/* Class = "UISegmentedControl"; GBj-1z-Md6.segmentTitles[2] = "Satellite"; ObjectID = "GBj-1z-Md6"; */
+"GBj-1z-Md6.segmentTitles[2]" = "Спутник";
+
+/* Class = "UILabel"; text = "degrees Fahrenheit"; ObjectID = "Hln-JU-NLL"; */
+"Hln-JU-NLL.text" = "градуов фаренгейта";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "IUV-3Q-3yb"; */
+"IUV-3Q-3yb.title" = "Карта";
+
+/* Class = "UIButton"; normalTitle = "Find User"; ObjectID = "LbU-WF-9m1"; */
+"LbU-WF-9m1.normalTitle" = "Найти пользователя";
+
+/* Class = "UITextField"; placeholder = "Enter the Value"; ObjectID = "MjJ-T3-rjE"; */
+"MjJ-T3-rjE.placeholder" = "Введите значение";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "NQQ-Sp-QnA"; */
+"NQQ-Sp-QnA.title" = "Карта";
+
+/* Class = "UITabBarItem"; title = "WebView"; ObjectID = "azb-Wl-iHT"; */
+"azb-Wl-iHT.title" = "Веб - просмотр";
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "fnZ-VZ-oUm"; */
+"fnZ-VZ-oUm.title" = "Конвертировать";
+
+/* Class = "UILabel"; text = "is really"; ObjectID = "gMr-8N-Au5"; */
+"gMr-8N-Au5.text" = "на самом деле";
